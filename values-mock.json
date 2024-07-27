@@ -1,0 +1,75 @@
+{
+    "json_values": [
+        {
+            "id": "U1",
+            "value": "23389"
+        },
+        {
+            "id": "U2",
+            "value": "23043"
+        },
+        {
+            "id": "U3",
+            "value": "23023"
+        },
+        {
+            "id": "I1",
+            "value": "3093"
+        },
+        {
+            "id": "I2",
+            "value": "1735"
+        },
+        {
+            "id": "I3",
+            "value": "2305"
+        },
+        {
+            "id": "P",
+            "value": "-25"
+        },
+        {
+            "id": "fwdEn",
+            "value": "461042"
+        },
+        {
+            "id": "rvsEn",
+            "value": "105923"
+        },
+        {
+            "id": "AO1",
+            "value": "0"
+        },
+        {
+            "id": "AO2",
+            "value": "0"
+        },
+        {
+            "id": "DO1",
+            "value": "0"
+        },
+        {
+            "id": "DO2",
+            "value": "0"
+        },
+        {
+            "id": "LEDS",
+            "value": "0"
+        },
+        {
+            "id": "LEDP",
+            "value": "1"
+        },
+        {
+            "id": "date_time",
+            "value": {
+                "year": 2024,
+                "month": 7,
+                "day": 27,
+                "hour": 7,
+                "minute": 43,
+                "second": 47
+            }
+        }
+    ]
+}
