@@ -10,4 +10,9 @@ Lastmanagement mi Raspberry Pi 2B
 - muss nur von 7-21 laufen, 21 Uhr beim beenden dann GIO auf False
 
 LUPUS json:
-` { "json_values": [ { "id": "P", "value": "-5" }, ... ] } `
+` { "json_values": [ { "id": "P", "value": "-25" }, ... ] } `
+
+LUPUS-Demoumgebung
+cmd: `python3 -m http.server`
+
+Web: http://localhost:8000/values-mock.json
