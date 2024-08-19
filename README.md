@@ -9,6 +9,11 @@ Lastmanagement mi Raspberry Pi 2B
 - Wenn Timeout dann Email
 - muss nur von 7-21 laufen, 21 Uhr beim beenden dann GIO auf False
 
+- Visualisierung:
+   - in file schreiben bei GPIO-Ansteerung: Zeitstempel + GPIO-Zustand (0/1)
+   - in file schreiben bei GPIO-Ansteuerug: Zeitstempel + Wert P ("Gesamtleistung in W")
+   - https://www.chartjs.org/docs/latest/samples/line/line.html
+
 LUPUS json:
 ` { "json_values": [ { "id": "P", "value": "-25" }, ... ] } `
 
