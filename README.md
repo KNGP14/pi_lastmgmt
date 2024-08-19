@@ -15,7 +15,7 @@ Lastmanagement mi Raspberry Pi 2B
    - https://www.chartjs.org/docs/latest/samples/line/multi-axis.html
    - config v1 siehe unten
    - config v2: verbraucher nicht in 0-100% sondern in Watt darstellen
-   - config v2.1: alle verbraucherin Watt als Stacked Bar übereinander, um die Gesamt-Verbraucher darzustellen
+   - config v2.1: alle verbraucherin Watt als Stacked Bar übereinander, um die Gesamt-Verbraucher darzustellen https://www.chartjs.org/docs/latest/samples/bar/stacked.html
    - oder extra skript, dass jede minute P von LUPUS abfrage und Verbraucher-Verbrauch und schreibt weg, damit reale Werte
 
 LUPUS json:
